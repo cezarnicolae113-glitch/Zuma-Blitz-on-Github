@@ -1,0 +1,34 @@
+Title: Zuma Blitz
+Alternate Titles: "Zuma Blitz: BETA; Zuma Blitz BETA; Zuma Blitz Beta; Zuma Blitz: Beta"
+Library: arcade
+Series: Zuma
+Developer: PopCap
+Publisher: PopCap; Facebook
+Play Mode: Single Player
+Release Date: 2010-12-14
+Version: "40"
+Languages: en
+Tags: Zuma; Arcade; Marble Popper; Score-Attack; Officially Licensed; Top-Down
+Tag Categories: default; default; default; default; default; default
+Source: https://drive.google.com/file/d/1JHUsRDpC9d68vW6F68oqFkGAfeXNCitf/
+Primary Platform: Flash
+Platforms: Flash
+Status: Hacked; Partial; Playable
+Application Path: FPSoftware\fpnavigator-portable\FPNavigator.exe
+Launch Command: http://labs.popcap.com/facebook/zumablitz/
+Game Notes: Hacked to make the game offline and level is set 80, which makes
+  unlockable features unlocked, as well as enable Golden Frog. All powers are
+  free. The 2 existing maps (Beach Ball and Above N' Below) are randomized every
+  time on launch.
+Original Description: Journey deep into the heart of the jungle to join your
+  friends and your fearless frog as you fire quickly to make matches, beat the
+  clock, and avoid the dreaded Golden Skull! See why millions of fans enjoy this
+  exciting, social, puzzle adventure. Named IGN's 2011 Facebook Game of the
+  Year!
+Curation Notes: Since the game's asset servers doesn't exist anymore, the game's
+  files are in a zip file put in a Google Drive link, which is the link in the
+  source.
+UUID: c4d91dad-cb88-4353-8722-8df65cc2953a
+Mount Parameters: ""
+Group: ""
+Additional Applications: {}
